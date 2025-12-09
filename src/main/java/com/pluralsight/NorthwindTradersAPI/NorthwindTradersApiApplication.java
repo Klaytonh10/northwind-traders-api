@@ -8,9 +8,7 @@ import tools.jackson.databind.ObjectMapper;
 public class NorthwindTradersApiApplication {
 
 	public static void main(String[] args) {
-
         SpringApplication.run(NorthwindTradersApiApplication.class, args);
-
 	}
 
 }
